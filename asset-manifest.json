@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Nasa-gallery/static/css/main.092f996a.chunk.css",
+    "main.js": "/Nasa-gallery/static/js/main.31af34ba.chunk.js",
+    "main.js.map": "/Nasa-gallery/static/js/main.31af34ba.chunk.js.map",
+    "runtime-main.js": "/Nasa-gallery/static/js/runtime-main.8d793205.js",
+    "runtime-main.js.map": "/Nasa-gallery/static/js/runtime-main.8d793205.js.map",
+    "static/js/2.7249851e.chunk.js": "/Nasa-gallery/static/js/2.7249851e.chunk.js",
+    "static/js/2.7249851e.chunk.js.map": "/Nasa-gallery/static/js/2.7249851e.chunk.js.map",
+    "index.html": "/Nasa-gallery/index.html",
+    "precache-manifest.ee259542de460248e4548880ff8b71b6.js": "/Nasa-gallery/precache-manifest.ee259542de460248e4548880ff8b71b6.js",
+    "service-worker.js": "/Nasa-gallery/service-worker.js",
+    "static/css/main.092f996a.chunk.css.map": "/Nasa-gallery/static/css/main.092f996a.chunk.css.map",
+    "static/js/2.7249851e.chunk.js.LICENSE.txt": "/Nasa-gallery/static/js/2.7249851e.chunk.js.LICENSE.txt",
+    "static/media/Spinner.gif": "/Nasa-gallery/static/media/Spinner.d1ba72c7.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d793205.js",
+    "static/js/2.7249851e.chunk.js",
+    "static/css/main.092f996a.chunk.css",
+    "static/js/main.31af34ba.chunk.js"
+  ]
+}
